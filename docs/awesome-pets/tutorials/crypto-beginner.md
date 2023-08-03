@@ -21,6 +21,10 @@ Other awesome lists:
   *Chris Peikert*  
   Theoretical Computer Science 2016, [eprint](https://eprint.iacr.org/2015/939.pdf), Peikert16  
 
+- Survey of Lattice-based Cryptography  
+  *Xiaoyun Wang, Mingjie Liu*  
+  Journal of Cryptologic Research 2014, [eprint](http://www.jcr.cacrnet.org.cn/CN/10.13868/j.cnki.jcr.000002) , WL14
+
 - Lattice-based Cryptography  
   *Daniele Micciancio, Oded Regev*  
   Post-quantum Cryptography 2008, [eprint](https://cims.nyu.edu/~regev/papers/pqc.pdf), MP08  
@@ -46,6 +50,14 @@ Other awesome lists:
 - Middle-Product Learning With Errors  
   *Miruna Rosca, Amin Sakzad, Ron Steinfeld, Damien Stehle*  
   CRYPTO 2017, [eprint](https://eprint.iacr.org/2017/628.pdf), RSSS17  
+
+- Pseudorandomness of ring-LWE for any ring and modulus  
+  *Chris Peikert, Oded Regev, Noah Stephens-Davidowitz*  
+  STOC 2017, [eprint](https://eprint.iacr.org/2017/258.pdf), PRD17  
+
+- Large Modulus Ring-LWE ≥ Module-LWE  
+  *Martin R. Albrecht, Amit Deo*  
+  ASIACRYPT 2017, [eprint](https://eprint.iacr.org/2017/612.pdf), AD17  
 
 - Worst-case to average-case reductions for module lattices  
   *Adeline Langlois, Damien Stehlé*  
@@ -77,7 +89,7 @@ Other awesome lists:
 
 - Worst-case to average-case reductions based on Gaussian measures  
   *Daniele Micciancio, Oded Regev*  
-  SIAM Journal on Computing 2007, MR04  
+  FOCS'04, [eprint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1366257), MR04  
 
 - Generating hard instances of lattice problems  
   *Miklós Ajtai*  
